@@ -1,0 +1,94 @@
+Satyrs
+	Edraria
+		- Stardoor Cliffs, monastaries built into rock, Inca/Tibet
+	
+	Croal Tribes
+		- Living in thick woodlands, isolated hunter-gatherer tribes, Pacific Islander
+	
+	Ordysica
+		- Land below Stardoor Cliffs, seafarers/explorers, Spain/Portugal
+
+Satyrs + All
+	Kin of the Waters
+		- Living on the islands in the Alairic Sea, traders, Hong Kong/Polynesia
+
+Humans
+	Royal Barian Magistry
+		- Living in principalities loosely unified under Magistrate, Rome/Germany
+
+	Ghaust
+	Dyn
+	Athos
+		- Living in walled cities on hills, builds monuments to gods, Celt/Egyptians
+	
+	Dryad Clans
+		- Living in wooded areas, tribes and clans, small alliances
+
+Humans + All
+	Maremians
+		- Living in various city-states, traders/colonies, Greek/Carthage
+			Towns:
+				Aceleacel
+				Antreg
+				Hesimass
+				Tusi
+				Vipal
+				Viosse
+				Coron
+				Lyicll
+	
+Garuda
+	Gadryan Tribes
+		- Nomadic tribes in the desert, Nomadic Jews
+	
+	Shonael People
+		- Groups living in the Mountains, Afghanistan
+		
+	Hielat
+		- Group living in carved city, Jordan
+	
+Narashima + Makara + Humans
+	The Kasu
+		- Living on the edge of the Jungle, tribes and clans, small alliances
+	
+Humans + Narashima
+	Shelan Confederation
+		- Confederation of tribes on the border of jungle and woods. Iriqouis
+	
+Spriggan
+	The Spriggans
+		- Hereditary oligarchic society based on six cultivars, Southern Forest of Undalla
+	
+Umibozu
+	Basya
+		- Ecclesiocraticly overseen republic living in cities on ocean floor, Iran
+
+	The Tellosians
+		- Loose schools swimming in open ocean, Moken/Bajau
+
+Makara + All
+	Zokita
+		- Living in swamps, Military junta, generally neutral, source of mercenaries, Switzerland/Prussia 
+
+Myrmidon
+	Children of Chx'ra
+		- Living in hives on jungle trees, theocratic monarchical feudalism, Shang Dynasty/England
+
+	Myrmidonians
+		- Rare hive-states that do not follow the Queen, hidden
+		
+Kodama
+	Olaunic Covenant
+		- Coalition of trading towns along plains, Netherlands
+		
+	Xangea
+		- Monarchy in plains
+	
+Kodama + Makara
+	Nbor
+		- Receeding militaristic empire living in jungle, Persia
+	
+Kodama + Umibozu
+	Ugungr
+		- Living in the ruins of ancient Umibozu coastal cities, Mayan
+	
